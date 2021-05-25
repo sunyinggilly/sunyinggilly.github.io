@@ -1,0 +1,43 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Ying Sun
+
+~~~
+{}{img_left}{photos/photo.jpg}{alt text}{148}{}
+PhD Candidate,\n 
+[http://www.ict.ac.cn Institute of Computing Technology (ICT)], \n
+[http://www.cas.cn Chinese Academy of Sciences (CAS)], \n
+No. 6 Kexueyuan South Rd. \n
+Haidian Dist., Beijing, China \n 
+E-mail: sunying17g@ict.ac.cn
+
+~~~
+
+== About me
+I am a PhD candidate in Institute of Computing Technology, Chinese Academy of Sciences, supervised by [http://people.ucas.edu.cn/~heqing Prof. Qing He] and co-supervised by [http://fuzhenzhuang.github.io Prof. Fuzhen Zhuang]
+
+From 2018 till now, I work as a research intern in Baidu Talent Intelligence Center (TIC), supervised by [http://zhuhengshu.com/ Dr. Hengshu Zhu].
+
+In 2017, I received the B.S. degrees in soft engineering from Beijing Institute of Technology ([https://bit.edu.cn/ BIT]). 
+
+
+== Research
+My research interests include 
+- Data Mining
+- Machine Learning
+- Deep Learning
+
+=== Recent Publications 
+. *Ying Sun*, Fuzhen Zhuang\*, Hengshu Zhu\*, Qi Zhang, Qing He, Hui Xiong\*, \"Market-oriented Job Skill Valuation with Cooperative Composition Neural Network\", In Nature Communications, 2021
+. *Ying Sun*, Fuzhen Zhuang\*, Hengshu Zhu\*, Qing He, Hui Xiong, \"Cost-Effective and Interpretable Job Skill Recommendation with Deep Reinforcement Learning\", In Proceedings of The Web Conference 2021 (WWW-2021) , Taipei, 2021
+. *Ying Sun*, Fuzhen Zhuang\*, Hengshu Zhu\*, Xin Song, Qing He, Hui Xiong, \"The Impact of Person-Organization Fit on Talent Management: A Structure-Aware Convolutional Neural Network Approach\", In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-2019) , Anchorage, Alaska, 2019
+. *Ying Sun*, Hengshu Zhu\*, Fuzhen Zhuang\*, Jingjing Gu, Qing He, \"Exploring the Urban Region-of-Interest through the Analysis of Online Map Search Queries\", In Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-2018) , London, United Kindom, 2018
+
+[publications.html Full list of publications].
+\n
+
+== Reward
+- 2019 National Scholarship (master)
+- 2017 Outstanding Graduate in Beijing
+- 2016 Gold Medal of ACM-ICPC Asia Regional Contest Shenyang Site
+- 2016 Second Runner-Up of ACM-ICPC Asia Regional Contest Hongkong Site
+- 2014 National Scholarship (undergraduate)

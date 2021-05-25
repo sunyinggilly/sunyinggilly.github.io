@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter  
+
+= Full List of Publications 
+. Qi Zhang, Hengshu Zhu\*, *Ying Sun*, Hao Liu, Fuzhen Zhuang, Hui Xiong\*, \"Talent Demand Forecasting with Attentive Neural Sequential Model\", In Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-2021), 2021
+. Hongting Niu, Hengshu Zhu, *Ying Sun*, Xinjiang Lu, Jing Sun, Zhiyuan Zhao, Hui Xiong, Bo Lang, \"Exploring the Risky Travel Area and Behavior of Car-hailing Service\", In ACM Transactions on Intelligent Systems and Technology (ACM TIST), 2021
+. Yongchun Zhu, Ruobing Xie, Fuzhen Zhuang\*, Kaikai Ge, *Ying Sun*, Xu Zhang, Leyu Lin and Juan Cao, \"Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks\", In Proceedings of the 44st International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR-2021), 2021.
+. *Ying Sun*, Fuzhen Zhuang\*, Hengshu Zhu\*, Qi Zhang, Qing He, Hui Xiong\*, \"Market-oriented Job Skill Valuation with Cooperative Composition Neural Network\", In Nature Communications, 2021
+. *Ying Sun*, Fuzhen Zhuang\*, Hengshu Zhu\*, Qing He, Hui Xiong, \"Cost-Effective and Interpretable Job Skill Recommendation with Deep Reinforcement Learning\", In Proceedings of The Web Conference 2021 (WWW-2021) , Taipei, 2021
+. Yiqing Wu, *Ying Sun*, Fuzhen Zhuang\*, Deqing Wang, Xiangliang Zhang, Qing He, \"Mate-path Hierarchical Heterogeneous Graph Convolution Network for High Potential Scholar Recognition\", In Proceedings of the 19th IEEE International Conference on Data Mining (ICDM-2020), 2020. 
+. Hengshu Zhu\*, *Ying Sun*, Wenjia Zhao, Fuzhen Zhuang, Baoshan Wang, Hui Xiong\*, \"Rapid Learning of Earthquake Felt Area and Intensity Distribution with Real-time Search Engine Queries\", In Scientific Reports , 2020.
+. *Ying Sun*, Fuzhen Zhuang\*, Hengshu Zhu\*, Xin Song, Qing He, Hui Xiong, \"The Impact of Person-Organization Fit on Talent Management: A Structure-Aware Convolutional Neural Network Approach\", In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-2019) , Anchorage, Alaska, 2019
+. *Ying Sun*, Hengshu Zhu\*, Fuzhen Zhuang\*, Jingjing Gu, Qing He, \"Exploring the Urban Region-of-Interest through the Analysis of Online Map Search Queries\", In Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-2018), 2018
+\n
