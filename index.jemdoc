@@ -3,23 +3,33 @@
 
 ~~~
 {}{img_left}{photos/photo.jpg}{alt text}{148}{}
-PhD Candidate,\n 
-[http://www.ict.ac.cn Institute of Computing Technology (ICT)], \n
-[http://www.cas.cn Chinese Academy of Sciences (CAS)], \n
-No. 6 Kexueyuan South Rd. \n
-Haidian Dist., Beijing, China \n 
-E-mail: sunying17g@ict.ac.cn
+I am currently a 5th year Ph.D. candidate in the [http://www.ict.ac.cn Institute of Computing Technology (ICT)], [http://www.cas.cn Chinese Academy of Sciences (CAS)]. \n
+
+I'm going to join the faculty of Artificial Intelligence Thrust, Hong Kong University of Science and Technology (Guangzhou) as an assistant professor in July, 2022. 
+
+Here is my [https://scholar.google.com/citations?user=A9L70nUAAAAJ&hl=en Google Scholar].
+
+E-mail: sunyinggilly@gmail.com
 
 ~~~
 
-== About me
-I am currently a 5th year Ph.D. candidate in the Institute of Computing Technology (ICT), Chinese Academy of Sciences, supervised by [http://people.ucas.edu.cn/~heqing Prof. Qing He] and co-supervised by [http://fuzhenzhuang.github.io Prof. Fuzhen Zhuang]. 
+== Professional Experiences
+- Research Intern. Talent Intelligence Center (TIC), Baidu Inc., Aug 2018 - Jun 2022
+-- Advisor: Prof. [http://datamining.rutgers.edu/ Prof. Hui Xiong], [http://zhuhengshu.com/ Dr. Hengshu Zhu]
 
-In 2017, I received my B.S. degree in soft engineering from Beijing Institute of Technology ([https://bit.edu.cn/ BIT]). During university, I was an International College Programming Contest (ICPC) participant and became a finalist in the fourth year.
+== Education
+- Ph.D. in Computer Science. Institute of Computing Technology, Chinese Academy of Sciences, July, 2022. (Expected)
+-- Advisor: [http://people.ucas.edu.cn/~heqing Prof. Qing He]
+-- Co-advisor: [http://fuzhenzhuang.github.io Prof. Fuzhen Zhuang]
 
-From 2018 till now, I study as a research intern in Baidu Talent Intelligence Center (TIC) under the supervision of [http://zhuhengshu.com/ Dr. Hengshu Zhu]. During this period of time, I'm also fortunate to be advised by [http://datamining.rutgers.edu/ Prof. Hui Xiong].
+- B.Eng. in Software Engineering. Beijing Institute of Technology, July, 2017.
 
-My general research interest includes data mining and machine learning, focusing on developing effective and explainable machine learning methods to reason from real-world talent, job, and labour market-related data. Here is my [https://scholar.google.com/citations?user=A9L70nUAAAAJ&hl=en Google Scholar].
+== Research Interest
+I'm interested in a wide range of topics related to Artificial Intelligence, Data Mining, and Machine Learning, such as:
+- Explainable Artificial Intelligence
+- Graph Neural Networks
+- Reinforcement Learning
+- Talent Analytics
 
 
 == Recent Publications 
@@ -29,20 +39,24 @@ My general research interest includes data mining and machine learning, focusing
 . *Ying Sun*, Fuzhen Zhuang\*, Hengshu Zhu\*, Qing He, Hui Xiong, \"Cost-Effective and Interpretable Job Skill Recommendation with Deep Reinforcement Learning\", In Proceedings of The Web Conference 2021 *(WWW-2021)*, Taipei, 2021. \[[https://dl.acm.org/doi/10.1145/3442381.3449985 link]\]
 . *Ying Sun*, Fuzhen Zhuang\*, Hengshu Zhu\*, Xin Song, Qing He, Hui Xiong, \"The Impact of Person-Organization Fit on Talent Management: A Structure-Aware Convolutional Neural Network Approach\", In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining *(KDD-2019)* , Anchorage, Alaska, 2019. \[[https://dl.acm.org/doi/abs/10.1145/3292500.3330849 link]\]
 . *Ying Sun*, Hengshu Zhu\*, Fuzhen Zhuang\*, Jingjing Gu, Qing He, \"Exploring the Urban Region-of-Interest through the Analysis of Online Map Search Queries\", In Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining *(KDD-2018)*, 2018. \[[https://dl.acm.org/doi/10.1145/3219819.3220009 link]\]
+. Hongting Niu, *Ying Sun*, Hengshu Zhu, Cong Geng, Jiuchun Yang, Hui Xiong, Bo Lang. Exploring the Tidal Effect of Urban Business District with Large-scale Human Mobility Data. Frontiers of Computer Science *(FCS)*, 2022. \[[https://doi.org/10.1007/s11704-022-1623-6 link]\]
 . Qi Zhang, Hengshu Zhu\*, *Ying Sun*, Hao Liu, Fuzhen Zhuang, Hui Xiong\*, \"Talent Demand Forecasting with Attentive Neural Sequential Model\", In Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining *(KDD-2021)*, 2021. \[[https://dl.acm.org/doi/10.1145/3447548.3467131 link]\]
 . Hongting Niu, Hengshu Zhu, *Ying Sun*, Xinjiang Lu, Jing Sun, Zhiyuan Zhao, Hui Xiong, Bo Lang, \"Exploring the Risky Travel Area and Behavior of Car-hailing Service\", In ACM Transactions on Intelligent Systems and Technology *(ACM TIST)*, 2021. \[[https://dl.acm.org/doi/abs/10.1145/3465059 link]\]
 . Yongchun Zhu, Ruobing Xie, Fuzhen Zhuang\*, Kaikai Ge, *Ying Sun*, Xu Zhang, Leyu Lin and Juan Cao, \"Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks\", In Proceedings of the 44st International ACM SIGIR Conference on Research and Development in Information Retrieval *(SIGIR-2021)*, 2021. \[[https://dl.acm.org/doi/10.1145/3404835.3462843 link]\]
 . Hengshu Zhu\*, *Ying Sun*, Wenjia Zhao, Fuzhen Zhuang, Baoshan Wang, Hui Xiong\*, \"Rapid Learning of Earthquake Felt Area and Intensity Distribution with Real-time Search Engine Queries\", *Scientific Reports* , 2020. \[[https://www.nature.com/articles/s41598-020-62114-8 link]\]
 . Tianxin Wang, Fuzhen Zhuang\*, *Ying Sun*, Xiangliang Zhang, Leyu Lin, Feng Xia, Lei He, Qing He. \"Adaptively Sharing Multi-Levels of Distributed Representations in Multi-Task Learning\", In *Information Sciences*, 2022. \[[https://www.sciencedirect.com/science/article/pii/S0020025522000585 link]\]
 . Yiqing Wu, *Ying Sun*, Fuzhen Zhuang\*, Deqing Wang, Xiangliang Zhang, Qing He, \"Meta-path Hierarchical Heterogeneous Graph Convolution Network for High Potential Scholar Recognition\", In Proceedings of the 19th IEEE International Conference on Data Mining *(ICDM-2020)*, 2020. \[[https://ieeexplore.ieee.org/abstract/document/9338394/ link]\]
+. Xuebing Li, *Ying Sun*, Fuzhen Zhuang, Jia He, Zhao Zhang, Shijun Zhu, Qing He. Potential Off-Grid User Prediction System Based on Spark. *ZTE Communications*, 17, 26–37. \[[https://www.zte.com.cn/global/about/magazine/zte-communications/2019/en201902/specialtopic/005 link]\]
 \n
 
-== Reward
-- 2021 National Scholarship for Ph.D.
-- 2019 National Scholarship for graduate
+== Selected Honors and Awards
+- 2021 National Scholarship for Ph.D. student
+- 2019 National Scholarship for graduate student
+- 2014 National Scholarship for undergraduate student
 - 2017 Beijing Outstanding Graduate Award
-- 2017 Honorable Mention of the ACM ICPC World Finals
+- 2017 Participation of ACM ICPC World Final
 - 2016 Silver Medal of the ACM ICPC China-Final
 - 2016 Second Runner-Up (Gold Medal) of ACM-ICPC Asia Shenyang Regional Contest
 - 2016 Second Runner-Up of ACM-ICPC Asia Hong Kong Regional Contest
-- 2014 National Scholarship for undergraduate
+
+[awards.html Full list of awards].
