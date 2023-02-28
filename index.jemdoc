@@ -3,10 +3,8 @@
 
 ~~~
 {}{img_left}{photos/photo.jpg}{alt text}{148}{}
-
-I'm currently an assistant professor at Artificial Intelligence Thrust, Hong Kong University of Science and Technology (Guangzhou). I received my ph.D degree in Institute of Computing Technology, Chinese Academy of Sciences. Before that, I received my bachelor's degree at Beijing Institute of Technology. 
-
-In the recent five years, I have published many papers in the prestigious refereed conferences and journals, such as Nature Communications, TKDE, KDD, NeurIPS, WWW, etc. These works have been covered by authoritative medias such as China Daily and Guangming Net. 
+Dr. Ying Sun is currently an assistant professor at Artificial Intelligence Thrust, the Hong Kong University of Science and Technology (Guangzhou). She received the Ph.D. degree from the Institute of Computing Technology, Chinese Academy of Sciences, China. Prior to that, she received her B.E. degree from Beijing Institute of Technology, China. She won two second runner ups in ACM-ICPC Asian regional contest and was an ACM-ICPC world finalist. Her general research interests include data mining and machine learning, with a focus on explainable Artificial Intelligence (XAI) for supporting real-world decision-making scenarios. She has published prolifically in prestigious refereed journals and top-tier conference proceedings such as Nature Communications (NCOMMS), IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Intelligent Systems and Technology (TIST), SIGKDD, NeurIPS, SIGIR, TheWebConf, IEEE ICDM, etc. These works have been covered by authoritative medias such as China Daily and Guangming Net. She serves as program committee members in numerous top conferences such as IJCAI and AAAI.  
+Some of the honors Dr. Ying Sun has won include Zhuliyuehua Award, Chinese Academy of Sciences, Baidu scholarships top 20 candidates, three national scholarships, etc.
 
 # Here is my [https://scholar.google.com/citations?user=A9L70nUAAAAJ&hl=en Google Scholar].
 
@@ -14,7 +12,8 @@ E-mail: sunyinggilly@gmail.com
 
 \[2023\/2024 Fall\] Ph.D. position available. Feel free to send me your resume if you have passion in research and want to join my group as a Ph.D. student. 
 
-\[RA\/Internship\] RA/intership position available anytime. Students who have interest in research internship or gap year research assistant positions are more than welcom to contact me.
+\[RA\/Internship\] RA/intership position available anytime. Students who have interest in research internship or gap year research assistant positions are more than welcome to contact me.
+
 ~~~
 
 == Professional Experiences
@@ -30,10 +29,10 @@ E-mail: sunyinggilly@gmail.com
 - B.Eng. in Software Engineering. Beijing Institute of Technology. #, July, 2017.
 
 == Research Interest
-I'm interested in a wide range of topics related to Artificial Intelligence, Data Mining, and Machine Learning, such as:
+My current research interest focuses on developing explainable machine learning models to support real-world decision-making scenarios, relevant topics include:
 - Explainable Artificial Intelligence
-- Reinforcement Learning, Graph Neural Network
-- Talent Analytics, Business Analytics, Social Good
+- AI for Decision Making
+- Reinforcement Learning, Graph Mining
 
 == Recent Publications 
 . *Ying Sun*, Fuzhen Zhuang\*, Hengshu Zhu\*, Qi Zhang, Qing He, Hui Xiong\*, \"Market-oriented Job Skill Valuation with Cooperative Composition Neural Network\", *Nature Communications*, 2021. \[[https://www.nature.com/articles/s41467-021-22215-y link]\]
