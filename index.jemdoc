@@ -37,6 +37,7 @@ My current research interest focuses on developing explainable machine learning 
 - Reinforcement Learning, Graph Mining, Prompt Learning
 
 == News
+. 12/2023: 1 paper accepted by Nature Cities. Congrats to all collaborators!
 . 10/2023: 1 paper accepted by TOIS. Congrats to all the students and collaborators!
 . 08/2023: 1 project funded by the National Natural Science Foundation of China!
 . 08/2023: 1 paper accepted by 《计算机研究与发展》. Congrats to all the students and collaborators!
@@ -48,9 +49,10 @@ My current research interest focuses on developing explainable machine learning 
 . 02/2023: Honored to receive the Huohua award of Huawei \[[https://rd.hkust-gz.edu.cn/blog/2023/03/%E9%A6%99%E6%B8%AF%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%EF%BC%88%E5%B9%BF%E5%B7%9E%EF%BC%89%E5%AD%99%E8%8E%B9%E5%8A%A9%E7%90%86%E6%95%99%E6%8E%88%E8%8E%B7%E5%8D%8E%E4%B8%BA%E5%85%AC%E5%8F%B8/ link]\]
 
 == Recent Publication
-. Yuting Zhang, *Ying Sun*, Fuzhen Zhuang, Yongchun Zhu, Zhulin An, Yongjun Xu, \"Triple Dual Learning for Opinion-Based Explainable Recommendation\", ACM Transactions on Information Systems *(ACM TOIS)*, 2023.
+. *Ying Sun*, Hengshu Zhu, Lu Wang, Le Zhang, Hui Xiong, \"Large-scale Online Job Search Behaviors Reveal Labour Market Shifts Amid COVID-19\", to appear in *Nature Cities*, 2024.
+. Yuting Zhang, *Ying Sun*, Fuzhen Zhuang, Yongchun Zhu, Zhulin An, Yongjun Xu, \"Triple Dual Learning for Opinion-Based Explainable Recommendation\", ACM Transactions on Information Systems *(ACM TOIS)*, 2023. \[[https://dl.acm.org/doi/pdf/10.1145/3631521 paper]\]
 . *孙莹*, 章玉婷, 庄福振, 祝恒书, 何清, 熊辉, \"基于边信息作用下集合效用增量式学习的可解释薪酬预测算法\", *《计算机研究与发展》*, 2023.
-. He Zhang, *Ying Sun*\*, Weiyu Guo, Yafei Liu, Haonan Lu, Xiaodong Lin,and Hui Xiong\*.\"Interactive Interior Design Recommendation via Coarse-to-fine Multimodal Reinforcement Learning\", In Proceedings of the 31st ACM International Conference on Multimedia *(ACM MM-2023)*, 2023.
+. He Zhang, *Ying Sun*\*, Weiyu Guo, Yafei Liu, Haonan Lu, Xiaodong Lin,and Hui Xiong\*.\"Interactive Interior Design Recommendation via Coarse-to-fine Multimodal Reinforcement Learning\", In Proceedings of the 31st ACM International Conference on Multimedia *(ACM MM-2023)*, 2023.\[[https://arxiv.org/abs/2310.07287 paper]\]
 . Zhi Zheng, *Ying Sun*, Xin Song, Hengshu Zhu and Hui Xiong, \"Generative Learning Plan Recommendation for Employees: A Performance-aware Reinforcement Learning Approach"\ACM Recommender Systems *(RecSys-2023)*, 2023. \[[https://dl.acm.org/doi/10.1145/3604915.3608795 paper]\]
 . Chuan Qin, Hengshu Zhu, Dazhong Shen, *Ying Sun*, Kaichun Yao, Peng Wang, Hui Xiong, \"Automatic Skill-oriented Question Generation and Recommendation for Intelligent Job Interviews"\, ACM Transactions on Information Systems *(ACM TOIS)*, 2023.\[[https://dl.acm.org/doi/10.1145/3604552 paper]\]
 . Zheng Gong, Guifeng Wang, *Ying Sun*, Qi Liu, Yuting Ning, Hui Xiong, Jingyu Peng, \"Beyond Homophily: Robust Graph Anomaly Detection via Neural Sparsification\", In proceddings of International Joint Conference on Artificial Intelligence 2023 *(IJCAI-2023)*, 2023.\[[https://www.ijcai.org/proceedings/2023/0234.pdf paper]\]
