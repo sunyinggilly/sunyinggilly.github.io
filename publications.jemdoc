@@ -1,6 +1,7 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter  
 
 = Full List of Publications
+. Rui Zha, *Ying Sun*, Chuan Qin, Le Zhang, Tong Xu, Hengshu Zhu, Enhong Chen, \"Towards Unified Representation Learning for Career Mobility Analysis with Trajectory Hypergraph\", to appear in ACM Transactions on Information Systems *(ACM TOIS)*, 2024.
 . Liyi Chen, Chuan Qin, *Ying Sun*, Xin Song, Tong Xu, Hengshu Zhu, Hui Xiong, \"Collaboration-Aware Hybrid Learning for Knowledge Development Prediction\", to appear in The Web Conference 2024 *(WWW-2024)*, 2024.
 . *Ying Sun*, Hengshu Zhu, Lu Wang, Le Zhang, Hui Xiong, \"Large-scale Online Job Search Behaviors Reveal Labor Market Shifts Amid COVID-19\",*Nature Cities (2024)*: 1-14. \[[https://dl.acm.org/doi/pdf/10.1145/3631521 paper]\]
 . Yuting Zhang, *Ying Sun*, Fuzhen Zhuang, Yongchun Zhu, Zhulin An, Yongjun Xu, \"Triple Dual Learning for Opinion-Based Explainable Recommendation\", ACM Transactions on Information Systems *(ACM TOIS)*, 2023.\[[https://dl.acm.org/doi/pdf/10.1145/3631521 paper]\]
