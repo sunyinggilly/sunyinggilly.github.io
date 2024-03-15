@@ -37,6 +37,7 @@ My current research interest focuses on developing explainable machine learning 
 - Reinforcement Learning, Graph Mining, Prompt Learning
 
 == News
+. 03/2024: 1 paper accepted by DASFAA. Congrats to all the collaborators!
 . 02/2024: 1 paper accepted by TOIS. Congrats to all the students and collaborators!
 . 01/2024: 1 paper accepted by WWW-2024. Congrats to all collaborators!
 . 12/2023: Honored to receive the Best Innovation Cooperation award of Huawei
@@ -53,6 +54,7 @@ My current research interest focuses on developing explainable machine learning 
 . 02/2023: Honored to receive the Huohua award of Huawei \[[https://rd.hkust-gz.edu.cn/blog/2023/03/%E9%A6%99%E6%B8%AF%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%EF%BC%88%E5%B9%BF%E5%B7%9E%EF%BC%89%E5%AD%99%E8%8E%B9%E5%8A%A9%E7%90%86%E6%95%99%E6%8E%88%E8%8E%B7%E5%8D%8E%E4%B8%BA%E5%85%AC%E5%8F%B8/ link]\]
 
 == Recent Publication
+. Guanyu Jiang, Fuzhen Zhuang, Bowen Song, Yongchun Zhu, *Ying Sun*, Weiqiang Wang, Deqing Wang, \"SeqSHAP: Subsequence Level Shapley Value Explanations for Sequential Predictions", to appear in the 29th International Conference on Database Systems for Advanced Applications *(DASFAA 2024)*, 2024.
 . Rui Zha, *Ying Sun*, Chuan Qin, Le Zhang, Tong Xu, Hengshu Zhu, Enhong Chen, \"Towards Unified Representation Learning for Career Mobility Analysis with Trajectory Hypergraph\", to appear in ACM Transactions on Information Systems *(ACM TOIS)*, 2024.
 . Liyi Chen, Chuan Qin, *Ying Sun*, Xin Song, Tong Xu, Hengshu Zhu, Hui Xiong, \"Collaboration-Aware Hybrid Learning for Knowledge Development Prediction\", to appear in The Web Conference 2024 *(WWW-2024)*, 2024.
 . *Ying Sun*, Hengshu Zhu, Lu Wang, Le Zhang, Hui Xiong, \"Large-scale Online Job Search Behaviors Reveal Labor Market Shifts Amid COVID-19\", *Nature Cities (2024)*: 1-14, 2024. \[[https://www.nature.com/articles/s44284-023-00022-4 paper]\]
