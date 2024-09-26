@@ -37,6 +37,7 @@ My current research interest focuses on developing explainable machine learning 
 - Reinforcement Learning, Graph Mining, Prompt Learning
 
 == News
+. 09/2024: 3 papers accepted by NeurIPS. Congrats to all the collaborators!
 . 07/2024: 1 papers accepted by ACM MM. Congrats to all the collaborators!
 . 05/2024: 2 papers accepted by KDD. Congrats to all the collaborators!
 . 03/2024: 1 paper accepted by SIGIR. Congrats to all the collaborators!
@@ -57,15 +58,19 @@ My current research interest focuses on developing explainable machine learning 
 . 02/2023: Honored to receive the Huohua award of Huawei \[[https://rd.hkust-gz.edu.cn/blog/2023/03/%E9%A6%99%E6%B8%AF%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%EF%BC%88%E5%B9%BF%E5%B7%9E%EF%BC%89%E5%AD%99%E8%8E%B9%E5%8A%A9%E7%90%86%E6%95%99%E6%8E%88%E8%8E%B7%E5%8D%8E%E4%B8%BA%E5%85%AC%E5%8F%B8/ link]\]
 
 == Recent Publication
-. Yuting Zhang, Zhao Zhang, Yiqing Wu, *Ying Sun*, Fuzhen Zhuang, Wenhui Yu, Lantao Hu, Han Li, Kun Gai, Zhulin An, Yongjun Xu, "Tag Tree-Guided Multi-grained Alignment for Multi-Domain Short Video Recommendation", to appear in the 32nd ACM International Conference on Multimedia *(ACM MM-2024)*, 2024.
-. Zheng Gong, *Ying Sun*\*. "An Energy-centric Framework for Category-free Out-of-distribution Node Detection in Graphs", to appear in the 30th SIGKDD conference on Knowledge Discovery and Data Mining *(KDD 2024)*, 2024.
-. Yuting Zhang, Yiqing Wu, Ruidong Han, *Ying Sun*, Yongchun Zhu, Fuzhen Zhuang, Xiang Li, Wei Lin, Zhulin An, Yongjun Xu. "Unified Dual-Intent Translation for Joint Modeling of Search and Recommendation", to appear in the 30th SIGKDD conference on Knowledge Discovery and Data Mining *(KDD 2024)*, 2024.
+. Weiyu Guo, *Ying Sun*\*, Yijie Xu, Ziyue Qiao, Yongkui Yang, Hui Xiong\*, "SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network", to appear in The 38th Annual Conference on Neural Information Processing Systems, 2024.
+. Liyi Chen, *Ying Sun*\*, Shengzhe Zhang, Yuyang Ye, Wei Wu, Hui Xiong, "Tackling Uncertain Correspondences for Multi-Modal Entity Alignment", to appear in The 38th Annual Conference on Neural Information Processing Systems, 2024.
+. Liyi Chen, Panrong Tong, Zhongming Jin,  *Ying Sun*\*, Jieping Ye, Hui Xiong, "Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs", to appear in The 38th Annual Conference on Neural Information Processing Systems, 2024.
+. Yuting Zhang, Zhao Zhang, Yiqing Wu, *Ying Sun*, Fuzhen Zhuang, Wenhui Yu, Lantao Hu, Han Li, Kun Gai, Zhulin An, Yongjun Xu, "Tag Tree-Guided Multi-grained Alignment for Multi-Domain Short Video Recommendation", In Proceedings of The 32nd ACM International Conference on Multimedia *(ACM MM-2024)*, 2024.
+. Zheng Gong, *Ying Sun*\*. "An Energy-centric Framework for Category-free Out-of-distribution Node Detection in Graphs", In Proceedings of The 30th SIGKDD conference on Knowledge Discovery and Data Mining *(KDD 2024)*, 2024.
+. Yuting Zhang, Yiqing Wu, Ruidong Han, *Ying Sun*, Yongchun Zhu, Fuzhen Zhuang, Xiang Li, Wei Lin, Zhulin An, Yongjun Xu. "Unified Dual-Intent Translation for Joint Modeling of Search and Recommendation", In Proceedings of The 30th SIGKDD conference on Knowledge Discovery and Data Mining *(KDD 2024)*, 2024.
 . Zheng Gong, *Ying Sun*\*, \"Graph Reasoning Enhanced Language Models for Text-to-SQL", In Proceedings of The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval *(SIGIR-2024)*, 2024.
 . Guanyu Jiang, Fuzhen Zhuang, Bowen Song, Yongchun Zhu, *Ying Sun*, Weiqiang Wang, Deqing Wang, \"SeqSHAP: Subsequence Level Shapley Value Explanations for Sequential Predictions", In Proceedings of the 29th International Conference on Database Systems for Advanced Applications *(DASFAA 2024)*, 2024.
 . Rui Zha, *Ying Sun*, Chuan Qin, Le Zhang, Tong Xu, Hengshu Zhu, Enhong Chen, \"Towards Unified Representation Learning for Career Mobility Analysis with Trajectory Hypergraph\", ACM Transactions on Information Systems *(ACM TOIS)*, 2024.
 . Liyi Chen, Chuan Qin, *Ying Sun*, Xin Song, Tong Xu, Hengshu Zhu, Hui Xiong, \"Collaboration-Aware Hybrid Learning for Knowledge Development Prediction\", In Proceedings of The Web Conference 2024 *(WWW-2024)*, 2024.
 . *Ying Sun*, Hengshu Zhu, Lu Wang, Le Zhang, Hui Xiong, \"Large-scale Online Job Search Behaviors Reveal Labor Market Shifts Amid COVID-19\", *Nature Cities (2024)*: 1-14, 2024. \[[https://www.nature.com/articles/s44284-023-00022-4 paper]\]
 . Yuting Zhang, *Ying Sun*, Fuzhen Zhuang, Yongchun Zhu, Zhulin An, Yongjun Xu, \"Triple Dual Learning for Opinion-Based Explainable Recommendation\", ACM Transactions on Information Systems *(ACM TOIS)*, 2023. \[[https://dl.acm.org/doi/pdf/10.1145/3631521 paper]\]
+. Chuan Qin, Le Zhang, Yihang Cheng, Rui Zha, Dazhong Shen, Qi Zhang, Xi Chen, *Ying Sun*, Chen Zhu, Hengshu Zhu, Hui Xiong, "A comprehensive survey of artificial intelligence techniques for talent analytics", arXiv preprint arXiv:2307.03195, 2023.
 . *孙莹*, 章玉婷, 庄福振, 祝恒书, 何清, 熊辉, \"基于边信息作用下集合效用增量式学习的可解释薪酬预测算法\", *《计算机研究与发展》*, 2023.
 . He Zhang, *Ying Sun*\*, Weiyu Guo, Yafei Liu, Haonan Lu, Xiaodong Lin,and Hui Xiong\*.\"Interactive Interior Design Recommendation via Coarse-to-fine Multimodal Reinforcement Learning\", In Proceedings of the 31st ACM International Conference on Multimedia *(ACM MM-2023)*, 2023.\[[https://arxiv.org/abs/2310.07287 paper]\]
 . Zhi Zheng, *Ying Sun*, Xin Song, Hengshu Zhu and Hui Xiong, \"Generative Learning Plan Recommendation for Employees: A Performance-aware Reinforcement Learning Approach"\ACM Recommender Systems *(RecSys-2023)*, 2023. \[[https://dl.acm.org/doi/10.1145/3604915.3608795 paper]\]
@@ -85,10 +90,10 @@ My current research interest focuses on developing explainable machine learning 
 . *Ying Sun*, Fuzhen Zhuang, Hengshu Zhu, Xin Song, Qing He, Hui Xiong, \"The Impact of Person-Organization Fit on Talent Management: A Structure-Aware Convolutional Neural Network Approach\", In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining *(KDD-2019)* , Anchorage, Alaska, 2019. \[[https://dl.acm.org/doi/abs/10.1145/3292500.3330849 paper]\]
 . Xuebing Li, *Ying Sun*, Fuzhen Zhuang, Jia He, Zhao Zhang, Shijun Zhu, Qing He, \"Potential Off-Grid User Prediction System Based on Spark\", *ZTE Communications*, 17, 26–37, 2019. \[[https://www.zte.com.cn/content/dam/zte-site/res-www-zte-com-cn/mediares/magazine/publication/com_en/article/201902/en201902005.pdf paper]\]
 . *Ying Sun*, Hengshu Zhu, Fuzhen Zhuang, Jingjing Gu, Qing He, \"Exploring the Urban Region-of-Interest through the Analysis of Online Map Search Queries\", In Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining *(KDD-2018)*, 2018. \[[https://dl.acm.org/doi/10.1145/3219819.3220009 paper]\]
-\n
+
 
 == Selected Honors and Awards
-- 2023 Best Innovation Cooperation award of Huawei
+- 2023 Best Innovation Cooperation Award of Huawei
 - 2023 CCF Excellent Doctoral Dissertation Incentive Program（CCF博士学位论文激励计划（原CCF优博））
 - 2023 AI List of Young Chinese Female Scholars
 - 2023 Huohua award of Huawei
@@ -111,5 +116,3 @@ My current research interest focuses on developing explainable machine learning 
 . "Research on Self-Interpreting Neural Network Modeling Approach for Dynamic Relational Data", the Fundamental Research Project of Guangzhou, 100,000CNY, 2024-01  -- 2025-12.
 . "Interpretable Neural Network Algorithms for Intelligent Talent Management", Baidu, 100,000CNY, 2022-09  -- 2023-08.
 . "Interpretable Complex Event Impact Analysis", Huawei, 300,000CNY, 2023-01  -- 2024-01.
-
-
