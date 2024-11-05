@@ -37,6 +37,8 @@ My current research interest focuses on developing explainable machine learning 
 - Reinforcement Learning, Graph Mining, Prompt Learning
 
 == News
+. 11/2024: Honored to be selected as candidate of ICDM Young Female Scholar Award.
+. 11/2024: First-year undergraduate students from our HKUST-GZ Algorithm Competition Association won a Gold Medal at ICPC (Nanjing). Congrats to all the students!
 . 09/2024: 3 papers accepted by NeurIPS. Congrats to all the collaborators!
 . 07/2024: 1 papers accepted by ACM MM. Congrats to all the collaborators!
 . 05/2024: 2 papers accepted by KDD. Congrats to all the collaborators!
@@ -44,7 +46,7 @@ My current research interest focuses on developing explainable machine learning 
 . 03/2024: 1 paper accepted by DASFAA. Congrats to all the collaborators!
 . 02/2024: 1 paper accepted by TOIS. Congrats to all the collaborators!
 . 01/2024: 1 paper accepted by WWW-2024. Congrats to the collaborators!
-. 12/2023: Honored to receive the Best Innovation Cooperation award of Huawei
+. 12/2023: Honored to receive the Best Innovation Cooperation award of Huawei.
 . 12/2023: Honored to be selected in the "CCF Excellent Doctoral Dissertation Incentive Program"（CCF博士学位论文激励计划（原CCF优博））\[[https://www.ccf.org.cn/Awards/Awards/2023-12-26/811065.shtml link]\]
 . 12/2023: 1 paper accepted by Nature Cities. Congrats to all the collaborators!
 . 10/2023: 1 paper accepted by TOIS. Congrats to all the collaborators!
@@ -57,7 +59,8 @@ My current research interest focuses on developing explainable machine learning 
 . 03/2023: Honored to be added in AI List of Young Chinese Female Scholars \[[https://finance.sina.com.cn/jjxw/2023-03-09/doc-imykexpp0114525.shtml link]\]
 . 02/2023: Honored to receive the Huohua award of Huawei \[[https://rd.hkust-gz.edu.cn/blog/2023/03/%E9%A6%99%E6%B8%AF%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%EF%BC%88%E5%B9%BF%E5%B7%9E%EF%BC%89%E5%AD%99%E8%8E%B9%E5%8A%A9%E7%90%86%E6%95%99%E6%8E%88%E8%8E%B7%E5%8D%8E%E4%B8%BA%E5%85%AC%E5%8F%B8/ link]\]
 
-== Recent Publication
+== Recent Publications
+. 刘辉，祝恒书, 周景博, 武晗, 张乐, 孙莹, 王晶, 朱琛, 张开颜, 任巍（中国人力资源开发研究会“人才友好型城市研究”课题组）, 2024年人才友好型城市研究报告, 《中国人力资源开发》, 41(10), 6-36, 2024
 . Weiyu Guo, *Ying Sun*\*, Yijie Xu, Ziyue Qiao, Yongkui Yang, Hui Xiong\*, "SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network", to appear in The 38th Annual Conference on Neural Information Processing Systems, 2024.
 . Liyi Chen, *Ying Sun*, Shengzhe Zhang, Yuyang Ye, Wei Wu, Hui Xiong, "Tackling Uncertain Correspondences for Multi-Modal Entity Alignment", to appear in The 38th Annual Conference on Neural Information Processing Systems, 2024.
 . Liyi Chen, Panrong Tong, Zhongming Jin,  *Ying Sun*, Jieping Ye, Hui Xiong, "Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs", to appear in The 38th Annual Conference on Neural Information Processing Systems, 2024.
@@ -93,26 +96,47 @@ My current research interest focuses on developing explainable machine learning 
 
 
 == Selected Honors and Awards
-- 2023 Best Innovation Cooperation Award of Huawei
-- 2023 CCF Excellent Doctoral Dissertation Incentive Program（CCF博士学位论文激励计划（原CCF优博））
-- 2023 AI List of Young Chinese Female Scholars
-- 2023 Huohua award of Huawei
-- 2022 Zhuliyuehua award of Chinese Academy of Sciences
-- 2021 National Scholarship for Ph.D. student
-- 2019 National Scholarship for graduate student
-- 2014 National Scholarship for undergraduate student
-- 2017 Beijing Outstanding Graduate Award
-- 2017 Participation of ACM ICPC World Final
-- 2016 Silver Medal of the ACM ICPC China-Final
-- 2016 Second Runner-Up (Gold Medal) of ACM-ICPC Asia Shenyang Regional Contest
-- 2016 Second Runner-Up of ACM-ICPC Asia Hong Kong Regional Contest
+. 2024 ICDM Female Scholar Award Candidate
+. 2023 Best Innovation Cooperation Award of Huawei
+. 2023 CCF Excellent Doctoral Dissertation Incentive Program（CCF博士学位论文激励计划（原CCF优博））
+. 2023 AI List of Young Chinese Female Scholars
+. 2023 Huohua award of Huawei
+. 2022 Zhuliyuehua award of Chinese Academy of Sciences
+. 2021 National Scholarship for Ph.D. student
+. 2019 National Scholarship for graduate student
+. 2014 National Scholarship for undergraduate student
+. 2017 Beijing Outstanding Graduate Award
+. 2017 Participation of ACM ICPC World Final
+. 2016 Silver Medal of the ACM ICPC China-Final
+. 2016 Second Runner-Up (Gold Medal) of ACM-ICPC Asia Shenyang Regional Contest
+. 2016 Second Runner-Up of ACM-ICPC Asia Hong Kong Regional Contest
 
 [awards.html Full list of awards].
 
 
-== Research Grants
-. "Research on Interpretable Neural Network based on Expressive Self-Attributing Structure", the National Natural Science Foundation of China, 300,000CNY, 2024-01 -- 2026-12.
-. "Research on Multimodal Interactive Recommendation Algorithms for Scenario Design", the City-University Joint Funding Project of Guangzhou Science and Technology Plan, 250,000CNY, 2023-04  -- 2025-03.
-. "Research on Self-Interpreting Neural Network Modeling Approach for Dynamic Relational Data", the Fundamental Research Project of Guangzhou, 100,000CNY, 2024-01  -- 2025-12.
-. "Interpretable Neural Network Algorithms for Intelligent Talent Management", Baidu, 100,000CNY, 2022-09  -- 2023-08.
-. "Interpretable Complex Event Impact Analysis", Huawei, 300,000CNY, 2023-01  -- 2024-01.
+== Research Grants 
+. Principal Investigator, Research on Interpretable Neural Network based on Expressive Self-Attributing Structure (基于高表达自归因结构的可解释神经网络研究), the National Natural Science Foundation of China (国家自然科学基金), Youth Science Foundation Project (青年科学基金项目), 62306255, 300,000CNY, 2024-01 – 2026-12.
+
+. Principal Investigator, Research on Interpretable Graph Structure Learning Algorithm Based on Neural Networks (基于神经网络的可解释图结构学习算法研究), Guangdong Natural Science Foundation (广东省自然科学基金), General Program (面上项目), 2024A1515011839, 150,000CNY, 2024-01 - 2026-12. 
+
+. Principal Investigator, Research on Multimodal Interactive Recommendation Algorithms for Scenario Design (面向场景设计的多模态交互式推荐算法研究), Guangzhou-HKUST(GZ) Joint Funding Scheme (市校（院）企联合资助专题项目), 2023A03J0141, 250,000CNY, 2023-04 – 2025-03.
+
+. Principal Investigator, Research on Self-Interpreting Neural Network Modeling Approach for Dynamic Relational Data (面向动态关系数据的自解释神经网络建模方法), the Fundamental Research Project of Guangzhou (广州市基础与应用基础研究专题项目), 2024A04J4233, 100,000CNY, 2024-01 – 2025-12.
+
+. Principal Investigator, Interpretable Neural Network Algorithms for Intelligent Talent Management (面向智能人才管理的可解释神经网络算法), Baidu, 100,000CNY, 2022-09 - 2023-08.
+
+. Principal Investigator, Interpretable Complex Event Impact Analysis (可解释的复杂事件影响分析), Huawei, 300,000CNY, 2023-01 - 2024-01.
+
+. Co-Investigator, Co-Research on Universal Multimodal Human Computer Interaction Methods for Professional Fields,（面向专业领域的可通用多模态人机交互方法研究）, the National Natural Science Foundation of China (国家自然科学基金), Major research program projects (重大研究计划项目), 92370204, 3,000,000CNY, 2024-01 - 2027-12. 
+
+. Co-Investigator, Research on data-driven efficient drug response prediction and new drug development methods (数据驱动的高效药物反应预测及新药研发方法研究), Key projects of Guangdong Provincial and Municipal Joint Fund (广东省省市联合基金重点项目)，2023B1515120057, 1,000,000CNY, 2023-11 - 2026-10. 
+
+. Co-Investigator, Knowledge-driven scientific data intelligent analysis method and system (知识驱动的科学数据智能分析方法和系统), National Key R\&D Program (国家重点研发计划), Ministry of Science and Technology of China (国家科技部), 2023YFF0725000, 10,000,000CNY, 2024-01 - 2028-12.
+
+. Co-Investigator, Cooperation on Multimodal Interaction technology (基于多模态的交互技术合作), OPPO, 10,000,000CNY, 2022-08 - 2024-12.
+
+
+== Selected Media Coverage
+. Apr. 2021, 中国日报, "AI+人才管理成大趋势，百度又走在了行业前面？",  \[[https://tech.chinadaily.com.cn/a/202104/12/WS60740d9ea3101e7ce9748bd2.html Link]\]
+. Apr. 2021, 光明网, “AI+人才管理”最新研究成果登上Nature子刊, \[[https://tech.gmw.cn/2021-04/07/content_34745708.htm Link]\]
+. Mar. 2021, 北京青年报【北青深一】, AI“她力量” ：向人类想象更深处漫溯 | 深度报道, \[[https://mp.weixin.qq.com/s/RsiwcQ-F6IKSvHsoYmZTQQ Link]\]
