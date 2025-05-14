@@ -37,6 +37,8 @@ My current research interest focuses on developing explainable machine learning 
 - Data Mining (Graph Modeling, Spatio-Temporal Modeling, Recommender Systems, etc)
 
 == News
+. 05/2025: 1 papers accepted by TNNLS. Congrats to all the collaborators!
+. 05/2025: 5 papers accepted by ICML. Congrats to all the collaborators!
 . 01/2025: 1 paper accepted by WWW. Congrats to all the collaborators!
 . 01/2025: 1 paper accepted by TOIS. Congrats to all the collaborators!
 . 11/2024: 1 paper accepted by TOIS. Congrats to all the collaborators!
@@ -63,6 +65,12 @@ My current research interest focuses on developing explainable machine learning 
 . 02/2023: Honored to receive the Huohua award of Huawei \[[https://rd.hkust-gz.edu.cn/blog/2023/03/%E9%A6%99%E6%B8%AF%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%EF%BC%88%E5%B9%BF%E5%B7%9E%EF%BC%89%E5%AD%99%E8%8E%B9%E5%8A%A9%E7%90%86%E6%95%99%E6%8E%88%E8%8E%B7%E5%8D%8E%E4%B8%BA%E5%85%AC%E5%8F%B8/ link]\]
 
 == Recent Publications
+. *Ying Sun*\*, Hengshu Zhu, Hui Xiong, Towards Faithful Neural Network Intrinsic Interpretation with Shapley Additive Self-Attribution, IEEE Transactions on Neural Networks and Learning Systems *(TNNLS)*, 2025.
+. Zhigaoyuan Wang, *Ying Sun*\*, Hengshu Zhu, Unifying Knowledge from Diverse Datasets to Enhance Spatial-Temporal Modeling: A Granularity-Adaptive Geographical Embedding Approach, 42nd International Conference on Machine Learning *(ICML-2025)*, 2025.
+. Yaming Guo, Siyang Guo, *Ying Sun*\*, Hengshu Zhu, Towards Lifelong Model Editing via Simulating Ideal Editor, 42nd International Conference on Machine Learning *(ICML-2025)*, 2025.
+. Guo Weiyu, Ziyue Qiao, *Ying Sun*\*, Hui Xiong\*, Revisiting Noise Resilience Strategies in Gesture Recognition: Short-Term Enhancement in Surface Electromyographic Signal Analysis, 42nd International Conference on Machine Learning *(ICML-2025)*, 2025.
+. Zheng Gong, *Ying Sun*\*, Outlier-Aware Post-training Quantization for Discrete Graph Diffusion Models, 42nd International Conference on Machine Learning *(ICML-2025)*, 2025.
+. He Zhang, Ming Zhou, Shaopeng Zhai, *Ying Sun*\*, Hui Xiong\*, Efficient Skill Discovery via Regret-Aware Optimization, 42nd International Conference on Machine Learning *(ICML-2025)*, 2025.
 . Zheng Gong, Shuheng Shen, Changhua Meng, *Ying Sun*\*, Exploring Hypergraph Condensation via Variational Hyperedge Generation and Multi-Aspectual Amelioration, In Proceedings of The Web Conference 2025 *(WWW-2025)*, 2025
 . Haoran Xin, *Ying Sun*\*, Chao Wang, *Hui Xiong*\*, LLMCDSR: Enhancing Cross-Domain Sequential Recommendation with Large Language Models, ACM Transactions on Information Systems *(ACM TOIS)*, 2025.
 . *Ying Sun*, Yang Ji, Hengshu Zhu, Fuzhen Zhuang, Qing He, Hui Xiong, Market-aware Long-term Job Skill Recommendation with Explainable Deep Reinforcement Learning, ACM Transactions on Information Systems *(ACM TOIS)*, 2024.
