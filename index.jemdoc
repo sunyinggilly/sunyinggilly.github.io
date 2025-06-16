@@ -37,6 +37,7 @@ My current research interest focuses on developing explainable machine learning 
 - Data Mining (Graph Modeling, Spatio-Temporal Modeling, Recommender Systems, etc)
 
 == News
+. 05/2025: 1 paper accepted by Frontiers of Computer Science. Congrats to all the collaborators!
 . 05/2025: 1 paper accepted by Proceedings of IEEE. Congrats to all the collaborators!
 . 05/2025: 1 paper accepted by TNNLS. Congrats to all the collaborators!
 . 05/2025: 5 papers accepted by ICML. Congrats to all the collaborators!
@@ -66,16 +67,17 @@ My current research interest focuses on developing explainable machine learning 
 . 02/2023: Honored to receive the Huohua award of Huawei \[[https://rd.hkust-gz.edu.cn/blog/2023/03/%E9%A6%99%E6%B8%AF%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%EF%BC%88%E5%B9%BF%E5%B7%9E%EF%BC%89%E5%AD%99%E8%8E%B9%E5%8A%A9%E7%90%86%E6%95%99%E6%8E%88%E8%8E%B7%E5%8D%8E%E4%B8%BA%E5%85%AC%E5%8F%B8/ link]\]
 
 == Recent Publications
-. Chuan Qin, Le Zhang, Yihang Cheng, Rui Zha, Dazhong Shen, Qi Zhang, Xi Chen, *Ying Sun*, Chen Zhu, Hengshu Zhu, Hui Xiong, "A comprehensive survey of artificial intelligence techniques for talent analytics", Proceedings of IEEE, 2025.
-. *Ying Sun*\*, Hengshu Zhu, Hui Xiong, Towards Faithful Neural Network Intrinsic Interpretation with Shapley Additive Self-Attribution, IEEE Transactions on Neural Networks and Learning Systems *(TNNLS)*, 2025.
-. Zhigaoyuan Wang, *Ying Sun*\*, Hengshu Zhu, Unifying Knowledge from Diverse Datasets to Enhance Spatial-Temporal Modeling: A Granularity-Adaptive Geographical Embedding Approach, 42nd International Conference on Machine Learning *(ICML-2025)*, 2025.
-. Yaming Guo, Siyang Guo, *Ying Sun*\*, Hengshu Zhu, Towards Lifelong Model Editing via Simulating Ideal Editor, 42nd International Conference on Machine Learning *(ICML-2025)*, 2025.
-. Guo Weiyu, Ziyue Qiao, *Ying Sun*\*, Hui Xiong\*, Revisiting Noise Resilience Strategies in Gesture Recognition: Short-Term Enhancement in Surface Electromyographic Signal Analysis, 42nd International Conference on Machine Learning *(ICML-2025)*, 2025.
-. Zheng Gong, *Ying Sun*\*, Outlier-Aware Post-training Quantization for Discrete Graph Diffusion Models, 42nd International Conference on Machine Learning *(ICML-2025)*, 2025.
-. He Zhang, Ming Zhou, Shaopeng Zhai, *Ying Sun*\*, Hui Xiong\*, Efficient Skill Discovery via Regret-Aware Optimization, 42nd International Conference on Machine Learning *(ICML-2025)*, 2025.
-. Zheng Gong, Shuheng Shen, Changhua Meng, *Ying Sun*\*, Exploring Hypergraph Condensation via Variational Hyperedge Generation and Multi-Aspectual Amelioration, In Proceedings of The Web Conference 2025 *(WWW-2025)*, 2025
-. Haoran Xin, *Ying Sun*\*, Chao Wang, Hui Xiong\*, LLMCDSR: Enhancing Cross-Domain Sequential Recommendation with Large Language Models, ACM Transactions on Information Systems *(ACM TOIS)*, 2025.
-. *Ying Sun*, Yang Ji, Hengshu Zhu, Fuzhen Zhuang, Qing He, Hui Xiong, Market-aware Long-term Job Skill Recommendation with Explainable Deep Reinforcement Learning, ACM Transactions on Information Systems *(ACM TOIS)*, 2024.
+. Yang Ji, *Ying Sun*\*, Hengshu Zhu, "Enhancing Job Salary Prediction with Disentangled Composition Effect Modeling: A Neural Prototyping Approach", Frontiers of Computer Science *(FCS)*, 2025.
+. Chuan Qin, Le Zhang, Yihang Cheng, Rui Zha, Dazhong Shen, Qi Zhang, Xi Chen, *Ying Sun*, Chen Zhu, Hengshu Zhu, Hui Xiong, "A comprehensive survey of artificial intelligence techniques for talent analytics", *Proceedings of IEEE*, 2025.
+. *Ying Sun*\*, Hengshu Zhu, Hui Xiong, "Towards Faithful Neural Network Intrinsic Interpretation with Shapley Additive Self-Attribution", IEEE Transactions on Neural Networks and Learning Systems *(TNNLS)*, 2025.
+. Zhigaoyuan Wang, *Ying Sun*\*, Hengshu Zhu, "Unifying Knowledge from Diverse Datasets to Enhance Spatial-Temporal Modeling: A Granularity-Adaptive Geographical Embedding Approach", 42nd International Conference on Machine Learning *(ICML-2025)*, 2025.
+. Yaming Guo, Siyang Guo, *Ying Sun*\*, Hengshu Zhu, "Towards Lifelong Model Editing via Simulating Ideal Editor", 42nd International Conference on Machine Learning *(ICML-2025)*, 2025.
+. Guo Weiyu, Ziyue Qiao, *Ying Sun*\*, Hui Xiong\*, "Revisiting Noise Resilience Strategies in Gesture Recognition: Short-Term Enhancement in Surface Electromyographic Signal Analysis", 42nd International Conference on Machine Learning *(ICML-2025)*, 2025.
+. Zheng Gong, *Ying Sun*\*, "Outlier-Aware Post-training Quantization for Discrete Graph Diffusion Models", 42nd International Conference on Machine Learning *(ICML-2025)*, 2025.
+. He Zhang, Ming Zhou, Shaopeng Zhai, *Ying Sun*\*, Hui Xiong\*, "Efficient Skill Discovery via Regret-Aware Optimization", 42nd International Conference on Machine Learning *(ICML-2025)*, 2025.
+. Zheng Gong, Shuheng Shen, Changhua Meng, *Ying Sun*\*, "Exploring Hypergraph Condensation via Variational Hyperedge Generation and Multi-Aspectual Amelioration", In Proceedings of The Web Conference 2025 *(WWW-2025)*, 2025
+. Haoran Xin, *Ying Sun*\*, Chao Wang, Hui Xiong\*, "LLMCDSR: Enhancing Cross-Domain Sequential Recommendation with Large Language Models", ACM Transactions on Information Systems *(ACM TOIS)*, 2025.
+. *Ying Sun*, Yang Ji, Hengshu Zhu, Fuzhen Zhuang, Qing He, Hui Xiong, "Market-aware Long-term Job Skill Recommendation with Explainable Deep Reinforcement Learning", ACM Transactions on Information Systems *(ACM TOIS)*, 2024.
 . 刘辉，祝恒书, 周景博, 武晗, 张乐, *孙莹*, 王晶, 朱琛, 张开颜, 任巍（中国人力资源开发研究会“人才友好型城市研究”课题组）, 2024年人才友好型城市研究报告, 《中国人力资源开发》, 41(10), 6-36, 2024
 . Weiyu Guo, *Ying Sun*\*, Yijie Xu, Ziyue Qiao, Yongkui Yang, Hui Xiong\*, "SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network", The 38th Annual Conference on Neural Information Processing Systems *(NeurIPS-2024)*, 2024.
 . Liyi Chen, *Ying Sun*, Shengzhe Zhang, Yuyang Ye, Wei Wu, Hui Xiong, "Tackling Uncertain Correspondences for Multi-Modal Entity Alignment", The 38th Annual Conference on Neural Information Processing Systems *(NeurIPS-2024)*, 2024.
