@@ -37,6 +37,9 @@ My current research interest focuses on developing explainable machine learning 
 - Data Mining (Graph Modeling, Spatio-Temporal Modeling, Recommender Systems, etc)
 
 == News
+. 01/2026: 2 papers accepted by WWW. Congrats to all the collaborators!
+. 01/2026: 1 paper accepted by ACM TKDD. Congrats to all the collaborators!
+. 01/2026: 1 paper accepted by ACM TMIS. Congrats to all the collaborators!
 . 11/2025: 1 paper accedpted by Proceedings of IEEE. Congrats to all the collaborators!
 . 11/2025: 2 papers accepted by AAAI. Congrats to all the collaborators!
 . 09/2025: 1 paper accepted by NeurIPS. Congrats to all the collaborators!
@@ -45,7 +48,7 @@ My current research interest focuses on developing explainable machine learning 
 . 08/2025: 1 paper accepted by ACM MM (BNI Track). Congrats to all the collaborators!
 . 05/2025: 1 paper accepted by Frontiers of Computer Science. Congrats to all the collaborators!
 . 05/2025: 1 paper accepted by Proceedings of IEEE. Congrats to all the collaborators!
-. 05/2025: 1 paper accepted by TNNLS. Congrats to all the collaborators!
+. 05/2025: 1 paper accepted by IEEE TNNLS. Congrats to all the collaborators!
 . 05/2025: 5 papers accepted by ICML. Congrats to all the collaborators!
 . 01/2025: 1 paper accepted by WWW. Congrats to all the collaborators!
 . 01/2025: 1 paper accepted by TOIS. Congrats to all the collaborators!
@@ -73,6 +76,10 @@ My current research interest focuses on developing explainable machine learning 
 . 02/2023: Honored to receive the Huohua award of Huawei \[[https://rd.hkust-gz.edu.cn/blog/2023/03/%E9%A6%99%E6%B8%AF%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%EF%BC%88%E5%B9%BF%E5%B7%9E%EF%BC%89%E5%AD%99%E8%8E%B9%E5%8A%A9%E7%90%86%E6%95%99%E6%8E%88%E8%8E%B7%E5%8D%8E%E4%B8%BA%E5%85%AC%E5%8F%B8/ link]\]
 
 == Recent Publications
+. Fuling WANG, Le Zhang, Jingbo Zhou, Jindong Han, Ying Sun, Chuan Qin, Hengshu Zhu, Hui Xiong，ARADD: An Automatic Real-World API Discovery and Deployment Framework for AI Guide Service in Baidu Map, In Proceedings of The Web Conference 2026 *(WWW-2026)*, 2026.
+. Ranxu Zhang, Junjie Meng, Ying Sun, Ziqi Xu, Bing Yin, Hao Li, Yanyong Zhang and Chao Wang, MCLMR: A Model-Agnostic Causal Learning Framework for Multi-Behavior Recommendation, In Proceedings of The Web Conference 2026 *(WWW-2026)*, 2026.
+. Shuting Cui , *Ying Sun*\*, Yuting Zhang, Qingxin Meng, Hengshu Zhu, LLM-enhanced Career Knowledge Graph Understanding for Job Mobility Prediction, ACM Transactions on Management Information Systems (ACM TMIS), 2026.
+. Haoran Xin, Xinjiang Lu, Ying Sun, Nengjun Zhu, Tong Xu, Jingbo Zhou, Hui Xiong, How Business Agglomeration Affects Individual Points-of-Interest: A Causal Effect Estimation Perspective, ACM Transactions on Knowledge Discovery from Data (ACM TKDD), 2025.
 . Yang Ji, *Ying Sun*\*, Yuting Zhang, Zhigaoyuan Wang, Yuanxin Zhuang, Zheng Gong, Dazhong Shen, Chuan Qin, Hengshu Zhu, Hui Xiong, A Comprehensive Survey on Self-Interpretable Neural Networks, Proceedings of IEEE, 2025.
 . Yuanxin Zhuang, Dazhong Shen, *Ying Sun*\*， NGTM: Substructure-based Neural Graph Topic Model for Interpretable Graph Generation，The 40th Annual AAAI Conference on Artificial Intelligence *(AAAI-2026)*, 2026.
 . Yanke Yu, Jin Li, *Ying Sun*\*, Ping Li, Zhefeng Wang, Yi Zheng, Discovering Decoupled Functional Modules in Large Language Models, The 40th Annual AAAI Conference on Artificial Intelligence *(AAAI-2026)*, 2026.
@@ -80,7 +87,7 @@ My current research interest focuses on developing explainable machine learning 
 . Kevin Kailun Zhang, *Ying Sun*\*, Hui Xiong, "Multifractal Comparison of Billboard and AI-Generated Music", The 33rd ACM International Conference on Multimedia *(ACM MM-2025)* Brave New Idea Track, 2025.
 . Yang Ji, *Ying Sun*\*, Hengshu Zhu, "Enhancing Job Salary Prediction with Disentangled Composition Effect Modeling: A Neural Prototyping Approach", Frontiers of Computer Science *(FCS)*, 2025.
 . Chuan Qin, Le Zhang, Yihang Cheng, Rui Zha, Dazhong Shen, Qi Zhang, Xi Chen, *Ying Sun*, Chen Zhu, Hengshu Zhu, Hui Xiong, "A comprehensive survey of artificial intelligence techniques for talent analytics", *Proceedings of IEEE*, 2025.
-. *Ying Sun*\*, Hengshu Zhu, Hui Xiong, "Towards Faithful Neural Network Intrinsic Interpretation with Shapley Additive Self-Attribution", IEEE Transactions on Neural Networks and Learning Systems *(TNNLS)*, 2025.
+. *Ying Sun*\*, Hengshu Zhu, Hui Xiong, "Towards Faithful Neural Network Intrinsic Interpretation with Shapley Additive Self-Attribution", IEEE Transactions on Neural Networks and Learning Systems *(IEEE TNNLS)*, 2025.
 . Zhigaoyuan Wang, *Ying Sun*\*, Hengshu Zhu, "Unifying Knowledge from Diverse Datasets to Enhance Spatial-Temporal Modeling: A Granularity-Adaptive Geographical Embedding Approach", 42nd International Conference on Machine Learning *(ICML-2025)*, 2025.
 . Yaming Guo, Siyang Guo, *Ying Sun*\*, Hengshu Zhu, "Towards Lifelong Model Editing via Simulating Ideal Editor", 42nd International Conference on Machine Learning *(ICML-2025)*, 2025.
 . Guo Weiyu, Ziyue Qiao, *Ying Sun*\*, Hui Xiong\*, "Revisiting Noise Resilience Strategies in Gesture Recognition: Short-Term Enhancement in Surface Electromyographic Signal Analysis", 42nd International Conference on Machine Learning *(ICML-2025)*, 2025.
