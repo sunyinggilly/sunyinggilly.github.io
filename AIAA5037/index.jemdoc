@@ -6,17 +6,17 @@ This course covers advanced algorithm design techniques and data structures, inc
 
 == Schedule
 
-- Week 1: Introduction \[[slides/Lecture_1_Introduction.pdf] Slides\]
-- Week 2: Representation of Data Structure \[[slides/Lecture_2_Representation_of_Data_Structure.pdf] Slides\]
-- Week 3: Brute Force \[[slides/Lecture_3_brute_force.pdf] Slides\]
-- Week 4: Divide and Conquer \[[slides/Lecture_4_divideAndConquer-part2.pdf] Slides\]
-- Week 5: Tree I \[[slides/Lecture_5_Tree_I.pdf] Slides\]
-- Week 6: Tree II \[[slides/Lecture_6_Tree_II.pdf] Slides\]
-- Week 7: Dynamic Programming \[[slides/Lecture_7-dynamic-programming-1107.pdf] Slides\]
-- Week 8: Greedy I \[[slides/Lecture_8-Greedy_I.pdf] Slides\]
-- Week 9: Graph I \[[slides/Lecture_9-Graph.pdf] Slides\]
-- Week 10: Graph II \[[slides/Lecture_10-Graph_II.pdf] Slides\]
-- Week 11: Graph III \[[slides/Lecture_11-Graph_III.pdf] Slides\]
+- Week 1: Introduction \[[slides/Lecture_1_Introduction.pdf] [Slides]\]
+- Week 2: Representation of Data Structure \[[slides/Lecture_2_Representation_of_Data_Structure.pdf] [Slides]\]
+- Week 3: Brute Force \[[slides/Lecture_3_brute_force.pdf] [Slides]\]
+- Week 4: Divide and Conquer \[[slides/Lecture_4_divideAndConquer-part2.pdf] [Slides]\]
+- Week 5: Tree I \[[slides/Lecture_5_Tree_I.pdf] [Slides]\]
+- Week 6: Tree II \[[slides/Lecture_6_Tree_II.pdf] [Slides]\]
+- Week 7: Dynamic Programming \[[slides/Lecture_7-dynamic-programming-1107.pdf] [Slides]\]
+- Week 8: Greedy \[[slides/Lecture_8-Greedy_I.pdf] [Slides]\]
+- Week 9: Graph I \[[slides/Lecture_9-Graph.pdf] [Slides]\]
+- Week 10: Graph II \[[slides/Lecture_10-Graph_II.pdf] [Slides]\]
+- Week 11: Graph III \[[slides/Lecture_11-Graph_III.pdf] [Slides]\]
 
 == Information
 - Instructor: [http://sunyinggilly.github.io Dr. Ying Sun]
