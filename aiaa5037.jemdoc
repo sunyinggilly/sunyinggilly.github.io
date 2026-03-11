@@ -1,0 +1,69 @@
+# jemdoc: menu{MENU}{aiaa5037.html}, nofooter  
+
+== AIAA 5037: Advanced Algorithms and Data Structures
+~~~~~
+{}{img_right}{slides/AIAA5037/course_cover.jpg}{Course Cover}{200}{}
+~~~~~
+
+=== Course Information
+- **Instructor**: [https://sunyinggilly.github.io/ Ying Sun]
+- **Email**: sunyinggilly@gmail.com
+- **Office**: E1, 501b
+- **Office Hours**: By appointment
+
+=== Course Description
+This course covers advanced topics in algorithms and data structures, including but not limited to:
+- Advanced graph algorithms
+- Dynamic programming techniques
+- Computational geometry
+- Approximation algorithms
+- Randomized algorithms
+- String algorithms
+
+=== Prerequisites
+- Data Structures and Algorithms
+- Discrete Mathematics
+- Programming proficiency in Python/C++
+
+=== Textbooks
+- *Introduction to Algorithms* (CLRS), 4th Edition
+- *Algorithm Design* by Jon Kleinberg and Éva Tardos
+
+=== Grading
+- Assignments: 40%
+- Midterm Exam: 20%
+- Final Project: 40%
+
+== Lecture Slides
+
+| Week | Topic | Slides |
+| ---- | ----- | ------ |
+| 1 | Introduction & Course Overview | [slides/AIAA5037/lecture1.pdf PDF] |
+| 2 | Advanced Graph Algorithms I | [slides/AIAA5037/lecture2.pdf PDF] |
+| 3 | Advanced Graph Algorithms II | [slides/AIAA5037/lecture3.pdf PDF] |
+| 4 | Dynamic Programming | [slides/AIAA5037/lecture4.pdf PDF] |
+| 5 | Greedy Algorithms | [slides/AIAA5037/lecture5.pdf PDF] |
+| 6 | Midterm Review | [slides/AIAA5037/lecture6.pdf PDF] |
+| 7 | Computational Geometry I | [slides/AIAA5037/lecture7.pdf PDF] |
+| 8 | Computational Geometry II | [slides/AIAA5037/lecture8.pdf PDF] |
+| 9 | Approximation Algorithms | [slides/AIAA5037/lecture9.pdf PDF] |
+| 10 | Randomized Algorithms | [slides/AIAA5037/lecture10.pdf PDF] |
+| 11 | String Algorithms | [slides/AIAA5037/lecture11.pdf PDF] |
+| 12 | NP-Completeness | [slides/AIAA5037/lecture12.pdf PDF] |
+| 13 | Advanced Topics | [slides/AIAA5037/lecture13.pdf PDF] |
+| 14 | Project Presentations | [slides/AIAA5037/lecture14.pdf PDF] |
+| 15 | Final Review | [slides/AIAA5037/lecture15.pdf PDF] |
+
+== Assignments
+
+| Assignment | Due Date | Link |
+| ---------- | -------- | ---- |
+| Assignment 1 | Week 3 | [slides/AIAA5037/assignment1.pdf PDF] |
+| Assignment 2 | Week 5 | [slides/AIAA5037/assignment2.pdf PDF] |
+| Assignment 3 | Week 8 | [slides/AIAA5037/assignment3.pdf PDF] |
+| Assignment 4 | Week 11 | [slides/AIAA5037/assignment4.pdf PDF] |
+
+== Resources
+- [https://visualgo.net/ VisuAlgo] - Visualizing data structures and algorithms
+- [https://leetcode.com/ LeetCode] - Practice problems
+- [https://www.geeksforgeeks.org/ GeeksforGeeks] - Algorithm tutorials
