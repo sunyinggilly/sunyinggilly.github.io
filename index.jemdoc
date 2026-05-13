@@ -37,6 +37,7 @@ My current research interest focuses on developing explainable machine learning 
 - Data Mining (Graph Modeling, Spatio-Temporal Modeling, Recommender Systems, etc)
 
 == News
+. 05/2026: 1 paper accepted by ICML. Congrats to all the collaborators!
 . 04/2026: 3 papers accepted by ACL. Congrats to all the collaborators!
 . 04/2026: 2 papers accedpted by SIGIR. Congrats to all the collaborators!
 . 03/2026: 1 paper accepted by TKDD. Congrats to all the collaborators!
@@ -86,6 +87,8 @@ My current research interest focuses on developing explainable machine learning 
 . Zheng Gong, *Ying Sun*\*, Ping Li, Yi ZHENG, Zhefeng Wang， "Punctuation-Steered Representation Fine-Tuning", The 64th Annual Meeting of the Association for Computational Linguistics *(ACL-2026)*, 2026.
 . Yuting Zhang, *Ying Sun*\*, Dazhong Shen, Ziwei Xie, Feng Liu, Changwang Zhang\*, Xiang Liu, Jun Wang, Hui Xiong, "Discrete Preference Learning for Personalized Multimodal Generation", The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval *(SIGIR-2026)*, 2026.
 . Zheng Gong, Shuheng Shen, Changhua Meng, *Ying Sun*, "TDHGNN: A Temporal Directed Hypergraph Neural Network for Bitcoin Fraud Detection", The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval *(SIGIR-2026)*, 2026.
+. Zheng Gong, *Ying Sun*\*, Chao Wang, Xiaohui Huo, Ping Li, Yi ZHENG, Zhefeng Wang, "Representation-Aware Modularity: Efficient Cross-Task Generalization for LLMs", The 35th International Joint Conference on Artificial Intelligence *(IJCAI-2026)*, 2026.
+. Jin Li, Yaming Guo, Shenghao Gao, Xinlong Chen, Zuhao Xu, *Ying Sun*\*, Chao Wang, Hui Xiong\*, "Low-cost Full Fine-tuning: Learning What to Update for LLMs", 43rd International Conference on Machine Learning *(ICML-2026)*, 2026.
 . Yunchu Bai, Chao Wang; Ying Sun; Chuan Qin; Wei Wu; Hui Xiong, "Graph-based Prompt Learning with Mixture of Experts for Multi-task Corporate Profiling", ACM Transactions on Knowledge Discovery from Data *(ACM TKDD)*, 2026.
 . Dazhong Shen, Jingjing Gu, Qiang Zhou, Meng Zhao, *Ying Sun*, "LiDAR-to-4DRadar Diffusion Bridge via Cross-Modal Alignment and Translation in Latent Space", IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 *(CVPR-2026)*, 2026.
 . Yuanxin Zhuang, Dazhong Shen\*, *Ying Sun*\*, "MolEditRL: Structure-Preserving Molecular Editing via Discrete Diffusion and Reinforcement Learning", The 14th International Conference on Learning Representations *(ICLR-2026)*, 2026.
