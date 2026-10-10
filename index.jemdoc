@@ -39,6 +39,8 @@ My current research interest focuses on developing explainable machine learning 
 - Data Mining (Graph Modeling, Spatio-Temporal Modeling, Recommender Systems, etc)
 
 == News
+. 10/2026: Honored to be included in the Stanford\/Elsevier World's Top 2% Scientists 2026 (Single-Year Impact). \[[https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9 link]\]
+. 08/2026: 3 papers accepted by EMNLP. 
 . 07/2026: 1 paper accepted by TMLR. Congrats to all the collaborators! 
 . 07/2026: 1 paper accepted by RecSys. Congrats to all the collaborators! 
 . 06/2026: Happy to announce that my student received CCF Doctoral Student Funding Program.
@@ -89,7 +91,10 @@ My current research interest focuses on developing explainable machine learning 
 . 02/2023: Honored to receive the Huohua award of Huawei \[[https://rd.hkust-gz.edu.cn/blog/2023/03/%E9%A6%99%E6%B8%AF%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%EF%BC%88%E5%B9%BF%E5%B7%9E%EF%BC%89%E5%AD%99%E8%8E%B9%E5%8A%A9%E7%90%86%E6%95%99%E6%8E%88%E8%8E%B7%E5%8D%8E%E4%B8%BA%E5%85%AC%E5%8F%B8/ link]\]
 
 == Recent Publications
-. Yang Ji, *Ying Sun*\*, Jin Li, Zhigaoyuan Wang, Ping Li, Zhefeng Wang, Yi Zheng, "Semantic-aware Pruning of Large Language Models via Neuron Importance Explanation," Expert Systems with Applications *(ESWA)*, 2026.
+. Lujundong Li, Mingxu Zhang, Songning Lai, Jiayu Yang, Yuxuan Fan, Ziwei Xie, Feng Liu, Changwang Zhang, Jun Wang, Dazhong Shen\*, *Ying Sun*\*, "Decomposing Visual Histories with Vision-Language Agents: Hierarchical Temporal Guidance for Compositional Image Generation", Conference on Empirical Methods in Natural Language Processing *(EMNLP-2026, Main Conference)*, 2026.
+. Haoran Xin, Anhao Zhao, *Ying Sun*\*, Jin Li, Xiaoyu Shen, Hui Xiong\*, "Escaping the KL Agreement Trap in On-Policy Distillation", Conference on Empirical Methods in Natural Language Processing *(EMNLP-2026, Main Conference)*, 2026.
+. Zheng Gong, *Ying Sun*\*, Hao Peng, Philip S. Yu, "Stop Rolling the Dice: Active Group Relative Policy Optimization via Intrinsic Metacognition", Findings of the Association for Computational Linguistics: EMNLP 2026 *(EMNLP-2026 Findings)*, 2026.
+. Yang Ji, *Ying Sun*\*, Jin Li, Zhigaoyuan Wang, Ping Li, Zhefeng Wang, Yi Zheng, "Semantic-aware Pruning of Large Language Models via Neuron Importance Explanation", Expert Systems with Applications *(ESWA)*, 2026.
 . Yuting Zhang, *Ying Sun*\*, Dazhong Shen, Ziwei Xie, Feng Liu, Changwang Zhang, Xiang Liu, Jun Wang, Hui Xiong\*. Generating Personalized Images for Sparse-Interaction Users with Uncertainty-Aware Retrieval and Dense Knowledge Guidance. ACM Recommender Systems *(RecSys-2026)*, 2026.
 . Mingxu Zhang, Huicheng Zhang, Jiaming Ji, Yaodong Yang, *Ying Sun*\*, "Enhance the Safety in Reinforcement Learning by ADRC Lagrangian Methods", Transactions on Machine Learning Research *(TMLR)*, 2026.
 . Zheng Gong, *Ying Sun*\*, Chao Wang, Xiaohui Huo, Ping Li, Yi ZHENG, Zhefeng Wang, "Representation-Aware Modularity: Efficient Cross-Task Generalization for LLMs", The 35th International Joint Conference on Artificial Intelligence *(IJCAI-2026)*, 2026.
@@ -179,6 +184,7 @@ My current research interest focuses on developing explainable machine learning 
 
 
 == Selected Honors and Awards
+. Stanford\/Elsevier World's Top 2% Scientists (Single-Year Impact), 2026 \[[https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9 link]\]
 . ICDM Young Female Scholar Award Candidate, 2024
 . Best Innovation Cooperation award of Huawei(华为最佳创新合作奖), 2023
 . CCF Excellent Doctoral Dissertation Incentive Program（CCF博士学位论文激励计划（原CCF优博））\[[https://www.ccf.org.cn/Awards/Awards/2023-12-26/811065.shtml link]\]
