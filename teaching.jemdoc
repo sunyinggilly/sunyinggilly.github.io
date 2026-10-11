@@ -1,9 +1,9 @@
-# jemdoc: menu{MENU}{teaching.html}, nofooter  
+# jemdoc: menu{MENU}{teaching.html}, nofooter, title{Teaching}
 
 == Course
-- (AIAA 5037) Advanced Algorithms and Data Structures, 2023Fall, 2024Fall - [aiaa5037.html Course Page]
-- (AIAA 5031) Introduction to Computing Using Python, 2023Spring, 2024Spring, 2024Fall
-- (UFUG1106) Honors Calculus II, 2025Spring
+- [AIAA5037/index.html (AIAA 5037) Advanced Algorithms and Data Structures], 2023 Fall, 2024 Fall
+- [AIAA5031/index.html (AIAA 5031) Introduction to Computing Using Python], 2023 Spring, 2024 Spring, 2024 Fall
+- (UFUG 1106) Honors Calculus II, 2025 Spring
 
 == Student Competition
 - Supervisor, HKUST(GZ) Algorithm Competition Association (香港科技大学（广州）算法竞赛协会)
